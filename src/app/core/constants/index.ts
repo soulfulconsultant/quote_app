@@ -1,0 +1,2 @@
+export const SEQUELIZE = 'SEQUELIZE';
+export const QUOTE_REPOSITORY = 'QUOTE_REPOSITORY';
